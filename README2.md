@@ -1,2 +1,1 @@
 'My Project'
-new line
